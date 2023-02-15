@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 ls -al . ../boot
+=======
+ls -al . .. /boot
+>>>>>>> 64c5c0fd5aace41d5ccd3c027d293bf1a6caae83
